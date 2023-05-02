@@ -1,3 +1,3 @@
 requests
-huluquests
+tryquests
 datetime
